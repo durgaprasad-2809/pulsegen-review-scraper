@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Great SaaS product",
+        "review": "microsoft-teams is reliable and easy to use.",
+        "date": "2024-03-12",
+        "rating": "5",
+        "source": "Sample"
+    },
+    {
+        "title": "Needs improvement",
+        "review": "microsoft-teams has good features but performance can improve.",
+        "date": "2024-04-05",
+        "rating": "4",
+        "source": "Sample"
+    }
+]
