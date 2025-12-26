@@ -23,9 +23,4 @@ and review source as inputs and outputs the reviews in JSON format.
 ```bash
 pip install -r requirements.txt
 
-Run the Script
-python scraper.py microsoft-teams 2024-01-01 2024-06-30 g2
-If command-line arguments are not provided, default values are used.
-Output
-The script generates a file named:
-sample_output.json
+
